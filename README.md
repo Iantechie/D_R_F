@@ -1,0 +1,1 @@
+- This series will cover creating a simple pastebin code highlighting Web API exploring exhaustively the different ways.
